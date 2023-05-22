@@ -1,1 +1,1 @@
-# random-color
+https://gyumyush.github.io/random-color/
